@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hi there! Addition 4565555
+          Hi there! 
         </a>
       </header>
     </div>
