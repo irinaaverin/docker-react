@@ -18,6 +18,7 @@ function App() {
         >
           Hi there! 
           I was changed on feature branch!
+          I was changed on feature branch second instance of AWD!
         </a>
       </header>
     </div>
